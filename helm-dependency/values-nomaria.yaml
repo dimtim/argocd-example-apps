@@ -1,5 +1,7 @@
 mariadb:
   enabled: false
+ingress:
+  enabled: false
 
 wordpress:
   wordpressPassword: foo
